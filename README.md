@@ -15,4 +15,5 @@
 
 ### Отчеты
 [Задания на практику](https://github.com/gabyshut/preddiplom-pract/blob/main/Задание%20на%20практику.docx.pdf)
+
 [Отчет по практике](https://github.com/gabyshut/preddiplom-pract/blob/main/Отчет%20по%20практике.docx.pdf)
