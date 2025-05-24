@@ -12,3 +12,7 @@
 ### Вариативная самостоятельная работа
 1. [Вариативная самостоятельная работа 2.1](https://github.com/gabyshut/preddiplom-pract/blob/main/ВСР%202.1.pdf)
 2. [Вариативная самостоятельная работа 2.2](https://github.com/gabyshut/preddiplom-pract/blob/main/ВСР%202.2.pdf)
+
+### Отчеты
+[Задания на практику](https://github.com/gabyshut/preddiplom-pract/blob/main/Задание%20на%20практику.docx.pdf)
+[Отчет по практике](https://github.com/gabyshut/preddiplom-pract/blob/main/Отчет%20по%20практике.docx.pdf)
