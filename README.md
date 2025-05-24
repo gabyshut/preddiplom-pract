@@ -3,7 +3,7 @@
 
 ### Инвариантная самостоятельная работа
 1. [Инвариантная самостоятельная работа 1.1](https://github.com/gabyshut/preddiplom-pract/blob/main/иср%201.%20Библиография.pdf)
-2. [Инвариантная самостоятельная работа 1.2]()
+2. [Инвариантная самостоятельная работа 1.2](https://github.com/gabyshut/preddiplom-pract/blob/main/Мельник_ЭВ_ИСР_1.2.pptx)
 3. [Инвариантная самостоятельная работа 1.3](https://github.com/gabyshut/preddiplom-pract/blob/main/ИСР%201.3.pdf)
 4. [Инвариантная самостоятельная работа 1.4](https://github.com/gabyshut/preddiplom-pract/blob/main/ИСР%201.4.pdf)
 5. [Инвариантная самостоятельная работа 1.5](https://github.com/gabyshut/preddiplom-pract/blob/main/ИСР%201.5.pdf)
@@ -11,4 +11,4 @@
 
 ### Вариативная самостоятельная работа
 1. [Вариативная самостоятельная работа 2.1](https://github.com/gabyshut/preddiplom-pract/blob/main/ВСР%202.1.pdf)
-2. [Вариативная самостоятельная работа 2.2]()
+2. [Вариативная самостоятельная работа 2.2](https://github.com/gabyshut/preddiplom-pract/blob/main/ВСР%202.2.pdf)
